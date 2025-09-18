@@ -8,6 +8,7 @@ public class PushTest extends OpMode {
     @Override
     public void init() {
         double power=1;
+        
     }
 
     @Override
